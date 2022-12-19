@@ -1,8 +1,8 @@
 # Clustering Group of countries
  
--Using unsupervised machine learning model using KMeans to cluster group of countries using humanitarian aid dataset
+- Using unsupervised machine learning model using KMeans to cluster group of countries using humanitarian aid dataset
 
--Analyse each group resemblance and difference.
+- Analyse each group resemblance and difference.
 
 
 
